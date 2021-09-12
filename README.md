@@ -18,7 +18,7 @@ que contiene los datos de dicha gráfica, estos datos son creados por el program
 
 ## Autores ✒️
 
-* **Jonathan Castellanos** - *Programación de bases de datos* - [JonaCaste](https://github.com/JonaCaste)
+* **Jonathan Castellanos** - *Programación de los programas* - [JonaCaste](https://github.com/JonaCaste)
 
 ## Licencia 📄
 
